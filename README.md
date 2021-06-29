@@ -5,7 +5,7 @@
  - 👨‍💻 I'm employed as a Software Enginner at ZPE Systems
  - 💻 Working with Embedded systems, IoT, Network, Cloud features and Linux.
  - 👨‍🎓✔️ Technical Degree in IT Programming: Federal Institute of Santa Catarina - Brazil
- - 👨‍🎓✔️ Graduated in Analysis and Development of Computer Systems: Federal Institute of Santa Catarina - Brazil
+ - 👨‍🎓✔️ Graduation Degree in Analysis and Development of Computer Systems: Federal Institute of Santa Catarina - Brazil
  
  ## My contacts
 

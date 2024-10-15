@@ -4,16 +4,14 @@
 ## About me
  - 👨‍💻 I'm employed as a Software Enginner at ZPE Systems
  - 💻 Working with Embedded systems, IoT, Network, Cloud features and Linux.
- - 👨‍🎓✔️ Technical Degree in IT Programming: Federal Institute of Santa Catarina - Brazil
- - 👨‍🎓✔️ Graduation Degree in Analysis and Development of Computer Systems: Federal Institute of Santa Catarina - Brazil
+ - 👨‍🎓✔️ Technical Degree in IT Programming: Federal Institute of Santa Catarina (IFSC) - Brazil
+ - 👨‍🎓✔️ Graduation Degree in Analysis and Development of Computer Systems: Federal Institute of Santa Catarina (IFSC) - Brazil
+ - 👨‍🎓✔️ Postgraduate Degree in Software Architecture: Faculty of Informatics and Administration Paulista (FIAP) - Brazil
  
  ## My contacts
 
 <a align="center" href="https://www.linkedin.com/in/ricardo-silva-vargas-a3b1a113a/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a align="center" href="mailto:riikivargas@gmail.com?subject=Olá%Ricardo,%20do%20Github">
-  <img alt="Email me!" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 ## Github status
